@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-
+.accordion-body{padding:0!important;}
 :root {
   --generic-template-background: #f2f2f2;
   --logo-width: 205px;
